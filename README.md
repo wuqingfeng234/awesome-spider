@@ -77,7 +77,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 
 ### K
 * [看知乎](https://github.com/atonasting/zhihuspider)
-* [课程格子校花榜](https://github.com/xinqiu/kechenggezi-Spider)
+* ~~[课程格子校花榜](https://github.com/xinqiu/kechenggezi-Spider)~~
 * [konachan](https://github.com/wudaown/konachanDL)
 
 ### L
